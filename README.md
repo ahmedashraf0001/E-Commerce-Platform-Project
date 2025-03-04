@@ -68,8 +68,8 @@ The project is organized into the following folders:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ECommercePlatform.git
-   cd ECommercePlatform
+   git clone https://github.com/ahmedashraf0001/E-Commerce-Platform-Project.git
+   cd E-Commerce-Platform-Project
    ```
 2. Configure the database connection in the application.
 3. Apply migrations to set up the database:
